@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+A mobile application, in which user can get news on different areas like business, health and sports etc.
+They can get each news article in web view style.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
